@@ -1,7 +1,7 @@
-//YassinMohamed
+
 #!/bin/bash
- HEAD
-# This script lists all files and directories in the current directory
+
+echo "Listing files in the repository:"
 ls -la
 
 # This script will list the contents of the current directory
